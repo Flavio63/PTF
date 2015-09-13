@@ -28,3 +28,19 @@
   content: "";
   padding: 0;
 }
+/* personalizzazione di bootstrap */
+.navbar-brand img{
+    width: 100px;
+}
+.navbar-brand{
+    height: 90px;
+}
+.nav, .navbar-bar{
+    font-size: 26px;
+}
+.navbar-nav > li > a {
+  line-height: 54px;
+}
+.navbar-form{
+    color: #5e5e5e;
+}
